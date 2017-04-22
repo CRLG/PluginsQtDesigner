@@ -11,7 +11,7 @@
 #include <QtCore>
 #include <QUndoStack>
 #include <QUndoCommand>
-#include <QtDesigner/QDesignerExportWidget>
+#include <QtUiPlugin/QDesignerExportWidget>
 
 class QDESIGNER_WIDGET_EXPORT QHexEditData : public QObject
 {

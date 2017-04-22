@@ -5,7 +5,7 @@
 #include <Qt>
 #include <QWidget>
 #include <QtGui>
-#include <QtDesigner/QDesignerExportWidget>
+#include <QtUiPlugin/QDesignerExportWidget>
 #include <math.h>
 
 class QDESIGNER_WIDGET_EXPORT QPotMet : public QWidget

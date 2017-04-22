@@ -5,7 +5,7 @@
 
 #include <Qt>
 #include <QWidget>
-#include <QtDesigner/QDesignerExportWidget>
+#include <QtUiPlugin/QDesignerExportWidget>
 
 class QDESIGNER_WIDGET_EXPORT QSwitch : public QWidget
 {

@@ -24,7 +24,7 @@
 #include <Qt>
 #include <QWidget>
 //#include <qwidget.h>
-#include <QtDesigner/QDesignerExportWidget>
+#include <QtUiPlugin/QDesignerExportWidget>
 
 class QLedMatrixPrivate;
 class QDESIGNER_WIDGET_EXPORT QLedMatrix: public QWidget

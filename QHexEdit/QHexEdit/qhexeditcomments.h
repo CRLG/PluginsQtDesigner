@@ -4,7 +4,7 @@
 #include <QtCore>
 #include <QtGui>
 #include <QtWidgets>
-#include <QtDesigner/QDesignerExportWidget>
+#include <QtUiPlugin/QDesignerExportWidget>
 #include "sparserangemap.h"
 
 class QDESIGNER_WIDGET_EXPORT QHexEditComments : public QObject

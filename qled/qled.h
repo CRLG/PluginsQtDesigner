@@ -18,7 +18,7 @@
 
 #include <Qt>
 #include <QWidget>
-#include <QtDesigner/QDesignerExportWidget>
+#include <QtUiPlugin/QDesignerExportWidget>
 
 // My Qt designer widget plugin class
 

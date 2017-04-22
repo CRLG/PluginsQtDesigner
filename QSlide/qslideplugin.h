@@ -21,7 +21,7 @@
 #ifndef CUSTOMWIDGETPLUGIN_H
 #define CUSTOMWIDGETPLUGIN_H
 
-#include <QDesignerCustomWidgetInterface>
+#include <QtUiPlugin/QDesignerCustomWidgetInterface>
 
 class QSlidePlugin : public QObject, public QDesignerCustomWidgetInterface
 {

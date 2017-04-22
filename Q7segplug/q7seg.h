@@ -24,7 +24,7 @@
 #include <Qt>
 #include <QWidget>
 #include <QtGui>
-#include <QtDesigner/QDesignerExportWidget>
+#include <QtUiPlugin/QDesignerExportWidget>
 
 
 class QDESIGNER_WIDGET_EXPORT Q7seg : public QWidget

@@ -1,7 +1,7 @@
 #ifndef QHEXEDITPLUGIN_H
 #define QHEXEDITPLUGIN_H
 
-#include <QDesignerCustomWidgetInterface>
+#include <QtUiPlugin/QDesignerCustomWidgetInterface>
 
 class QHexEditPlugin : public QObject, public QDesignerCustomWidgetInterface
 {

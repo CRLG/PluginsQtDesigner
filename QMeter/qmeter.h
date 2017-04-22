@@ -26,7 +26,7 @@
  
 #include <Qt>
 #include <QWidget>
-#include <QtDesigner/QDesignerExportWidget>
+#include <QtUiPlugin/QDesignerExportWidget>
 
 
 class QColor;

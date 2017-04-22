@@ -2,7 +2,7 @@
 #define QHEXEDITDATADEVICE_H
 
 #include <QtCore>
-#include <QtDesigner/QDesignerExportWidget>
+#include <QtUiPlugin/QDesignerExportWidget>
 #include "qhexeditdata.h"
 #include "qhexeditdatareader.h"
 #include "qhexeditdatawriter.h"

@@ -16,7 +16,7 @@
 #ifndef CUSTOMWIDGETPLUGIN_H
 #define CUSTOMWIDGETPLUGIN_H
 
-#include <QDesignerCustomWidgetInterface>
+#include <QtUiPlugin/QDesignerCustomWidgetInterface>
 
 // See Cusotm Widget Plugin Example in Qt online documentation to understand the meaning of this file
 

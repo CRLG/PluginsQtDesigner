@@ -21,7 +21,7 @@
 #ifndef QLEDMATRIXPLUGIN_H
 #define QLEDMATRIXPLUGIN_H
 
-#include <QDesignerCustomWidgetInterface>
+#include <QtUiPlugin/QDesignerCustomWidgetInterface>
 
 class QLedMatrixPlugin : public QObject, public QDesignerCustomWidgetInterface
 {
