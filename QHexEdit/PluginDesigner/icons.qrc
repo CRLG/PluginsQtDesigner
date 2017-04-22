@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/" >
+        <file>qhexedit.png</file>
+
+    </qresource>
+</RCC>
